@@ -1,0 +1,9 @@
+1. Overriding and Overloading?
+
+2. Synchronization?
+
+3. Collection API?
+
+4. How to sort Maps?
+
+5. What is interface and Abstartction?

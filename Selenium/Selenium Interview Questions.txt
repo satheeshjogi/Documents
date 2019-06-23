@@ -1,0 +1,11 @@
+1. What are different waits in selenium and explain?
+
+2. What is fluent wait?
+
+3. Difference b/w findelemnt and findelements?
+
+4. What exceptions will come for findelemnt and findelements if elements not found?
+
+5. What is assert and verify and differences?
+
+6. How do you handle multiple windows in selenium?
